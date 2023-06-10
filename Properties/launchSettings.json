@@ -1,0 +1,12 @@
+{
+  "profiles": {
+    "ImageFragments": {
+      "commandName": "Project",
+      "launchBrowser": true,
+      "environmentVariables": {
+        "ASPNETCORE_ENVIRONMENT": "Development"
+      },
+      "applicationUrl": "https://localhost:4000;http://localhost:4004"
+    }
+  }
+}

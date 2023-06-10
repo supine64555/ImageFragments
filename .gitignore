@@ -1,0 +1,55 @@
+# Visual Studio files
+.vs/
+
+# Build output
+/bin/
+/obj/
+
+# Packages
+**/node_modules/
+**/bower_components/
+
+# User-specific files
+*.suo
+*.user
+*.userprefs
+*.bak
+*.cache
+*.DS_Store
+
+# ASP.NET Core artifacts
+*.dll
+*.exe
+*.pdb
+*.dll.config
+*.log
+*.iislock
+*.json
+!launchSettings.json
+!package.json
+!tsconfig.json
+
+# Entity Framework Core migrations
+**/Migrations/
+**/*.Designer.cs
+
+# NuGet package restore
+project.lock.json
+*.nuget.props
+*.nuget.targets
+
+# Visual Studio Code
+.vscode/
+
+# Rider
+.idea/
+*.sln.iml
+
+# Mac
+.DS_Store
+
+# Logs
+logs/
+
+# Test Results
+TestResults/
